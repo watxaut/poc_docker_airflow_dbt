@@ -3,7 +3,7 @@
 To use the repo locally you should install the requirements.txt into a virtual environment
 using:
 ```shell script
-pip install -r requirements
+pip install -r requirements.txt
 ```  
 
 To start the docker and run it locally:
