@@ -1,0 +1,4 @@
+
+# exclude virtual environment and idea files from jetbrains
+venv/
+.idea/
