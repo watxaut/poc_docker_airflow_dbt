@@ -24,7 +24,7 @@ services:
     depends_on:
       - postgres
     env_file:
-      - airflow.env
+      - airflow-dev.env
     environment:
       - LOAD_EX=n
       - EXECUTOR=Local
