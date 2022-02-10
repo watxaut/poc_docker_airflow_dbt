@@ -9,7 +9,7 @@ default_args = {
     "owner": "joan.heredia",
     "depends_on_past": False,
     "start_date": datetime.datetime(2020, 3, 7, 0, 0, 0),
-    "email": ["joan.heredia@glovoapp.com"],
+    "email": ["watxaut@gmail.com", ],
     "email_on_failure": False,
     "email_on_retry": False,
     "retries": 1,
